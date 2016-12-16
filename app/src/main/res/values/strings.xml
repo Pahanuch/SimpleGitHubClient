@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SimpleGitHubClient</string>
+
+    <string name="empty_repo_list">Empty repo list</string>
+    <string name="repository_info">Repository Info</string>
+    <string name="branches">Branches:</string>
+    <string name="contributors">Contributors:</string>
+    <string name="empty_list">Empty List!</string>
+
+    <string name="forks">Forks: </string>
+    <string name="watches">Watches: </string>
+
+    <!-- Strings ActionBar Title -->
+    <string name="title_login">Login</string>
+    <string name="title_commits">Commits</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_info">Information</string>
+    <string name="title_repo_list">Repo List</string>
+
+    <!-- Buttons -->
+    <string name="btn_repo_info">Information</string>
+    <string name="btn_commits">Commits</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+
+</resources>
